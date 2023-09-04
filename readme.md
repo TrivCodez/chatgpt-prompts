@@ -20,7 +20,7 @@ This repo is a repo containing ways you can use chatgpt for anything! We will pr
 However we also accept Contributions, once you have contributed you will be shown in the Contributions list!
 ## Feedback
 
-If you have any feedback, please reach out by creating a issue by [clicking here](https://github.com/TrivCodez/chatgpt-prompts/issues/new)
+If you have any feedback, please reach out by creating a issue by [clicking here](https://github.com/TrivCodez/chatgpt-prompts/issues/new). Please `⭐️` this repo as well because it helps this repo be recognized by other users! 
 ## Prompt List
 
 #### Developer Prompts:
