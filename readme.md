@@ -1,4 +1,12 @@
 ![Alt Text](https://media.discordapp.net/attachments/917679444066463744/1148204188245958676/image.png?width=1226&height=298)
+## Goals
+
+**Can we complete our goals? This is a project I've started to work on, I left coding on discord.js v14 and html, css to help developers learn new skills and ensure us developers are not replaced with chatgpt. As an admin in many development servers, I can tell people are using chatgpt incorrectly which is why I've decided to create this repo! I'm updating this frequently when I'm not busy.**
+
+#1 - `Recieve 10 stars` = 🟡
+#2 - `Recieve 1 Contributor ` = 🟡
+#3 - `Reach 10 watchers` = 🟡
+
 ## Authors
 
 - [@TrivCodez](https://github.com/TrivCodez/)
