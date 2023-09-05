@@ -5,7 +5,7 @@
 
 #1 - `Recieve 10 stars` = 🟡
 
-#2 - `Recieve 1 Contributor ` = 🟡
+#2 - `Recieve 1 Contributor` = 🟡
 
 #3 - `Reach 10 watchers` = 🟡
 
