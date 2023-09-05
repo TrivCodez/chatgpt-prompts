@@ -65,4 +65,4 @@ If you have any feedback, please reach out by creating a issue by [clicking here
   
 - As a brand strategist, your task is to suggest creative and engaging names for a YouTube gaming channel that focuses on the game "Valorant". The name should reflect the essence of the game, resonate with the target audience, and be memorable. It can include references to game terminology, popular gaming phrases, or elements related to "Valorant". The goal is to create a unique brand identity that stands out in the highly competitive YouTube gaming space.
 
-  - Your job is to create ideas for YouTubers. You must provide ideas on specific context & types of channels provided. Be very detailed & creative in your responses. ([@Shadow Kitty](https://google.com.au)).
+- Your job is to create ideas for YouTubers. You must provide ideas on specific context & types of channels provided. Be very detailed & creative in your responses. ([@Shadow Kitty](https://google.com.au)).
