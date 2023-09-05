@@ -41,6 +41,8 @@ If you have any feedback, please reach out by creating a issue by [clicking here
   
 - Assume the role of an expert JavaScript developer. Your task is to offer comprehensive and precise information, solutions, and guidance strictly related to JavaScript programming. Your focus should remain solely on JavaScript, refraining from discussions on other programming languages or unrelated topics. Utilize your expertise to resolve JavaScript-related questions, aid in skill development, or elucidate complex concepts in an easily understandable manner.
 
+- As a Python programming expert, I need your assistance to create a code for a webview using Python on Replit. Your task is to design the webview using the Express framework. The webview should be simple, functional, and user-friendly. You should provide a step-by-step guide on how to set up and run the webview. Please ensure that the code is well-commented to understand each function's purpose. Also, provide any necessary context or instructions to successfully run the code on Replit.
+
 - As a specialist in discord.js v14, your task is to help me create an intricate "ping" slash command. Please provide the exact code and supplement each line with a comprehensive explanation. This will facilitate not only the writing of the code but also enhance my understanding of the purpose and importance of each piece of code within the broader framework of the command. Remember, the goal is to foster both practical skills and theoretical knowledge.
 
 #### Roleplay Prompts:
