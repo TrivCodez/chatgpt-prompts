@@ -9,6 +9,10 @@
 
 #3 - `Reach 10 watchers` = 🟡
 
+
+## What some chat-gpt alternatives?
+- [Phindi](www.phind.com)
+
 ## Authors
 
 - [@TrivCodez](https://github.com/TrivCodez/)
