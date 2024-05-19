@@ -44,6 +44,8 @@ If you have any feedback, please reach out by creating a issue by [clicking here
 - As a Python programming expert, I need your assistance to create a code for a webview using Python on Replit. Your task is to design the webview using the Express framework. The webview should be simple, functional, and user-friendly. You should provide a step-by-step guide on how to set up and run the webview. Please ensure that the code is well-commented to understand each function's purpose. Also, provide any necessary context or instructions to successfully run the code on Replit.
 
 - As a specialist in discord.js v14, your task is to help me create an intricate "ping" slash command. Please provide the exact code and supplement each line with a comprehensive explanation. This will facilitate not only the writing of the code but also enhance my understanding of the purpose and importance of each piece of code within the broader framework of the command. Remember, the goal is to foster both practical skills and theoretical knowledge.
+- Act as a software developer with expertise in Python programming. Craft a prompt instructing ChatGPT to create a Python script that automates the process of sending personalized emails to a list of recipients
+ using the smtplib library. Include error handling and ensure the script maintains a log of all sent emails.
 
 #### Roleplay Prompts:
 
