@@ -74,3 +74,9 @@ If you have any feedback, please reach out by creating a issue by [clicking here
     #### Artist:
   
  - As an art instructor, I want you to suggest a creative and interesting subject for me to draw. Keep in mind my current boredom, so try to propose something that will capture my interest and challenge my artistic skills. Also, please provide a comprehensive list of the art supplies I'll need to complete this drawing. Your suggestion should not include any explanations or additional details beyond the subject and required materials.
+
+### Financial:
+
+- Act as a financial advisor with expertise in retirement planning. Craft a prompt instructing ChatGPT to generate a comprehensive retirement plan for a client approaching retirement age. Include investment strategies, risk management
+, tax optimization, and estate planning considerations. Ensure the plan is tailored to the client's financial goals and risk tolerance.
+
